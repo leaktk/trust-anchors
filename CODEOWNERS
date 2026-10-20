@@ -1,0 +1,9 @@
+# trust-anchors CODEOWNERS file
+#
+# Usage/Syntax Docs: https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-code-owners
+
+# Default
+* @leaktk/trust-anchors-admin
+
+# User specific directories
+/people/bplaxco/ bplaxco@redhat.com
